@@ -1,0 +1,15 @@
+h1, form {
+    text-align: center;
+}
+#search {
+    height: 20px;
+}
+#submit {
+    height: 25px;
+}
+#gallery {
+    margin-top: 30px;
+}
+#gallery > img {
+    margin: 5px;
+}
